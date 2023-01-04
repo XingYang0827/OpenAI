@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-openai-dev-172614-authRole",
+      "UnauthRoleArn": "arn:aws:iam::911321174962:role/amplify-openai-dev-172614-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::911321174962:role/amplify-openai-dev-172614-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-openai-dev-172614-deployment",
+      "UnauthRoleName": "amplify-openai-dev-172614-unauthRole",
+      "StackName": "amplify-openai-dev-172614",
+      "StackId": "arn:aws:cloudformation:us-west-1:911321174962:stack/amplify-openai-dev-172614/c8eb2190-8bce-11ed-a928-0250e1a96a61",
+      "AmplifyAppId": "drglhdad3gixr"
+    },
+    "categories": {
+      "auth": {
+        "openai76c18604": {}
+      }
+    }
+  }
+}
