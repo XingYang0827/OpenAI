@@ -26,6 +26,11 @@ import Login from './Login/Login'
 import Profile from './Profile/'
 import LoginSuccess from './Login/Success'
 
+import Amplify from 'aws-amplify';
+import awsconfig from './aws-exports';
+import { AmplifySignOut, withAuthenticator } from '@aws-amplify/ui-react';
+
+Amplify.configure(awsconfig);
 
 import './App.scss'
 
